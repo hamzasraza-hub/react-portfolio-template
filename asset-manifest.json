@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-portfolio-template/static/css/main.d0ecb50e.css",
-    "main.js": "/react-portfolio-template/static/js/main.4e621100.js",
-    "static/js/453.282ee269.chunk.js": "/react-portfolio-template/static/js/453.282ee269.chunk.js",
-    "static/media/hamza-portrait.png": "/react-portfolio-template/static/media/hamza-portrait.624c7380ec76501b8068.png",
-    "static/media/lumentum-logo.svg": "/react-portfolio-template/static/media/lumentum-logo.7735ecd78c32ce6c79c7a743f014e15f.svg",
-    "index.html": "/react-portfolio-template/index.html",
-    "static/media/nutanix-logo.svg": "/react-portfolio-template/static/media/nutanix-logo.8831a0419e3457af1ce0814ba871e8e3.svg",
-    "static/media/bmc-logo.svg": "/react-portfolio-template/static/media/bmc-logo.8ce86e821e2a85d5a76ec8c823149eb7.svg",
-    "main.d0ecb50e.css.map": "/react-portfolio-template/static/css/main.d0ecb50e.css.map",
-    "main.4e621100.js.map": "/react-portfolio-template/static/js/main.4e621100.js.map",
-    "453.282ee269.chunk.js.map": "/react-portfolio-template/static/js/453.282ee269.chunk.js.map"
+    "main.css": "/static/css/main.d0ecb50e.css",
+    "main.js": "/static/js/main.082a73d1.js",
+    "static/js/453.282ee269.chunk.js": "/static/js/453.282ee269.chunk.js",
+    "static/media/hamza-portrait.png": "/static/media/hamza-portrait.624c7380ec76501b8068.png",
+    "static/media/lumentum-logo.svg": "/static/media/lumentum-logo.7735ecd78c32ce6c79c7a743f014e15f.svg",
+    "static/media/nutanix-logo.svg": "/static/media/nutanix-logo.8831a0419e3457af1ce0814ba871e8e3.svg",
+    "index.html": "/index.html",
+    "static/media/bmc-logo.svg": "/static/media/bmc-logo.8ce86e821e2a85d5a76ec8c823149eb7.svg",
+    "main.d0ecb50e.css.map": "/static/css/main.d0ecb50e.css.map",
+    "main.082a73d1.js.map": "/static/js/main.082a73d1.js.map",
+    "453.282ee269.chunk.js.map": "/static/js/453.282ee269.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0ecb50e.css",
-    "static/js/main.4e621100.js"
+    "static/js/main.082a73d1.js"
   ]
 }
